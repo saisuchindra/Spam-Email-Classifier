@@ -1,4 +1,4 @@
-# LG-9 Spam Email Classifier
+# Spam Email Classifier
 
 ![Spam Classifier Banner](https://img.shields.io/badge/Spam%20Classifier-Python-blueviolet?style=for-the-badge&logo=python)
 
